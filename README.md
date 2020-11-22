@@ -1,16 +1,7 @@
 # getx_test_project
+It is a very simple Shopping List App in Flutter bu using GetX State Management. The purpose is to learn how to work with GetX.
 
-A new Flutter project.
+![2020-11-22 16_36_31-Arama](https://user-images.githubusercontent.com/36234545/99905282-f6cf2880-2ce0-11eb-9d53-2284a59d24d0.png)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+clone the repo, and open folder with VS Code, then run project.
